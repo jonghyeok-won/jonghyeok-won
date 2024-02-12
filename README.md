@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img alt="C#" src ="https://img.shields.io/badge/C#-512BD4.svg?&style=flat-square&logo=C#&logoColor=white"/>
 <!--
 **jonghyeok-won/jonghyeok-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
